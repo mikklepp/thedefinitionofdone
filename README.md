@@ -6,8 +6,6 @@ Background
 
 We have been agile for 15+ years. We have been defining Done for 10+  years. It is time for some sane defaults.
 
-Let's assume that you are developing software.
-
 The Default Definition
 ======================
 
@@ -22,6 +20,20 @@ All existing documentation has been updated to reflect the changes.
 All tests pass.
 
 Tests have been updated based on the changes.
+
+Impact of the changes to information security has been considered.
+
+Impact of the changes to information privacy has been considered.
+
+Assumptions
+===========
+
+We assume that you are developing software.
+
+We assume that the team has the knowledge to evaluate changes from these perspectives:
+ * Clean code
+ * Information security
+ * Information privacy
 
 What do you think?
 ==================
